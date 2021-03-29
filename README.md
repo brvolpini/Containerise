@@ -13,7 +13,7 @@ Run docker-compose in detach mode
 docker-compose up -d
 ```
 
-Testing the proxy is working
+Testing if the proxy is working correctly
 
 ``` 
 curl -k https://localhost
