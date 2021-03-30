@@ -15,7 +15,7 @@ services:
 
   nginx:
     container_name: nginx
-    image: nginx:latest
+    image: nginx:1.18-alpine
     volumes:
       - ./nginx/files/localhost.crt:/etc/ssl/localhost.crt
       - ./nginx/files/localhost.key:/etc/ssl/localhost.key
