@@ -7,7 +7,7 @@ clone the repo
     git clone https://github.com/brvolpini/Containerise.git
     
 ```
- cd Containerise
+cd Containerise
 ```
 
 Run docker-compose in detach mode
