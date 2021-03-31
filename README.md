@@ -5,7 +5,10 @@ How to test the app:
 clone the repo
 
     git clone https://github.com/brvolpini/Containerise.git
+    
+```
     cd Containerise
+```
 
 Run docker-compose in detach mode
 
